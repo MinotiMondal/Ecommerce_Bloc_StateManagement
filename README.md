@@ -87,28 +87,7 @@ lib/
 - Android Studio / VS Code
 - Git
 
-### Installation
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/yourusername/mini-ecommerce-app.git
-   cd mini-ecommerce-app
-   ```
-
-2. **Install dependencies**
-   ```bash
-   flutter pub get
-   ```
-
-3. **Generate code**
-   ```bash
-   flutter packages pub run build_runner build
-   ```
-
-4. **Run the app**
-   ```bash
-   flutter run
-   ```
 
 ### Building for Release
 
@@ -222,10 +201,6 @@ The app is configured to work out of the box with the Fake Store API. No additio
 
 - Image loading may be slow on poor network connections
 - Cart animations could be smoother on older devices
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👨‍💻 Author
 
