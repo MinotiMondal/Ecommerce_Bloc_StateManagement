@@ -1,0 +1,134 @@
+{
+  "@@locale": "en",
+  "appTitle": "Mini E-Commerce",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  "productDetails": "Product Details",
+  "@productDetails": {
+    "description": "Title for product details page"
+  },
+  "shoppingCart": "Shopping Cart",
+  "@shoppingCart": {
+    "description": "Title for shopping cart page"
+  },
+  "addToCart": "Add to Cart",
+  "@addToCart": {
+    "description": "Button text to add item to cart"
+  },
+  "addedToCart": "Added to cart!",
+  "@addedToCart": {
+    "description": "Message when item is added to cart"
+  },
+  "removeFromCart": "Remove from cart",
+  "@removeFromCart": {
+    "description": "Button text to remove item from cart"
+  },
+  "clearAll": "Clear All",
+  "@clearAll": {
+    "description": "Button text to clear all items from cart"
+  },
+  "clearCart": "Clear Cart",
+  "@clearCart": {
+    "description": "Dialog title for clearing cart"
+  },
+  "clearCartConfirmation": "Are you sure you want to remove all items from your cart?",
+  "@clearCartConfirmation": {
+    "description": "Confirmation message for clearing cart"
+  },
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  "checkout": "Checkout",
+  "@checkout": {
+    "description": "Checkout button text"
+  },
+  "proceedToCheckout": "Proceed to Checkout",
+  "@proceedToCheckout": {
+    "description": "Button text for proceeding to checkout"
+  },
+  "checkoutDemo": "This is a demo app. Checkout functionality would be implemented here.",
+  "@checkoutDemo": {
+    "description": "Demo checkout message"
+  },
+  "ok": "OK",
+  "@ok": {
+    "description": "OK button text"
+  },
+  "continueShopping": "Continue Shopping",
+  "@continueShopping": {
+    "description": "Button text to continue shopping"
+  },
+  "yourCartIsEmpty": "Your cart is empty",
+  "@yourCartIsEmpty": {
+    "description": "Message when cart is empty"
+  },
+  "addSomeProducts": "Add some products to get started",
+  "@addSomeProducts": {
+    "description": "Subtitle when cart is empty"
+  },
+  "noProductsAvailable": "No products available",
+  "@noProductsAvailable": {
+    "description": "Message when no products are available"
+  },
+  "total": "Total",
+  "@total": {
+    "description": "Total label"
+  },
+  "totalPrice": "Total: {price}",
+  "@totalPrice": {
+    "description": "Total price label",
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "items": "Items ({count})",
+  "@items": {
+    "description": "Items count label",
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "priceEach": "${price} each",
+  "@priceEach": {
+    "description": "Price per item label",
+    "placeholders": {
+      "price": {
+        "type": "String"
+      }
+    }
+  },
+  "rating": "Rating",
+  "@rating": {
+    "description": "Rating label"
+  },
+  "description": "Description",
+  "@description": {
+    "description": "Description label"
+  },
+  "category": "Category",
+  "@category": {
+    "description": "Category label"
+  },
+  "quantity": "Quantity",
+  "@quantity": {
+    "description": "Quantity label"
+  },
+  "retry": "Retry",
+  "@retry": {
+    "description": "Retry button text"
+  },
+  "errorLoadingProducts": "Error loading products",
+  "@errorLoadingProducts": {
+    "description": "Error message when products fail to load"
+  },
+  "pullToRefresh": "Pull to refresh",
+  "@pullToRefresh": {
+    "description": "Pull to refresh instruction"
+  }
+}
